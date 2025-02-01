@@ -1,7 +1,7 @@
-streamlit
-numpy 
-plotly
-yfinance
-pandas 
-py_vollib
-scipy
+pip install streamlit
+pip install numpy 
+pip install plotly
+pip install yfinance
+pip install pandas 
+pip install py_vollib
+pip install scipy
